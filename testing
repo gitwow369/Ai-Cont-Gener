@@ -1,0 +1,4 @@
+  "db:push": "drizzle-kit push", for this  : - npm run db:push
+   "db:studio": "drizzle-kit studio", for this  : - npm run db:studio
+
+
